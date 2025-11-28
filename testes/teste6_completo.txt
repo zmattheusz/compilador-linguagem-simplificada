@@ -1,0 +1,11 @@
+var int contador;
+var int soma;
+contador = 1;
+soma = 0;
+while (contador <= 10) {
+    soma = soma + contador;
+    contador = contador + 1;
+}
+print soma;
+
+

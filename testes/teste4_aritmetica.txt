@@ -1,0 +1,15 @@
+var int a;
+var int b;
+var int resultado;
+a = 10;
+b = 5;
+resultado = a + b;
+print resultado;
+resultado = a - b;
+print resultado;
+resultado = a * b;
+print resultado;
+resultado = a / b;
+print resultado;
+
+
